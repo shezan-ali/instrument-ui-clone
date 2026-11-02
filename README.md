@@ -41,12 +41,13 @@ Created as an independent frontend project to improve my understanding of creati
 
 [View Live Website](https://shezan-ali.github.io/instrument-ui-clone/)
 
-## What I Learned
+## What This Project Demonstrates
 
-- Creating editorial-style website layouts
-- Working with typography and visual hierarchy
-- Structuring sections using HTML
-- Improving visual consistency with CSS
+- Creating polished, editorial-style website layouts.
+- Using typography, spacing, and visual hierarchy effectively.
+- Structuring website sections with semantic HTML.
+- Implementing consistent visual styling with CSS.
+- Translating a creative visual direction into a functional website interface.
 
 ## Disclaimer
 
